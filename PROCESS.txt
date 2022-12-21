@@ -1,0 +1,23 @@
+### Thinking process:
+  Criar uma classe Employees dentro do package entities.
+  possuindo o 'id', o 'name' e o 'salary' que serao preenchidos com Scanner.
+  Criar um mathod para calcular o incremento salarial de 10%
+
+
+### CODE
+
+  -package entities 
+    -Employees.java
+
+  private int id; (INTEGER - List - tipo  correto)
+  private String name;
+  private Double salary (Doouble - List - tipo  correto)
+
+  //getters/setters and constructors
+
+  methods
+
+  public void increaseSalary(double percentage){
+
+  }
+
